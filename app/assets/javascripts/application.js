@@ -12,4 +12,10 @@
 //
 //= require rails-ujs
 //= require turbolinks
+// application.js
+// we add to the requires (below jquery require):
+
+//= require jquery
+//= require jquery_ujs
+//= require bootstrap-sprockets
 //= require_tree .
